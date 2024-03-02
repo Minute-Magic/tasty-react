@@ -18,12 +18,10 @@ const About = () => {
           Food Is An Important Part Of A Balanced Diet
         </h1>
         <p className="primary-text">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+        At FOODIE, we believe that food plays a crucial role in a healthy lifestyle. 
         </p>
         <p className="primary-text">
-          Non tincidunt magna non et elit. Dolor turpis molestie dui magnis
-          facilisis at fringilla quam.
+        That's why we're committed to offering you delicious meals crafted with quality ingredients, ensuring your dining experience is not only enjoyable but also nourishing.
         </p>
         <div className="about-buttons-container">
           <button className="secondary-button">Learn More</button>

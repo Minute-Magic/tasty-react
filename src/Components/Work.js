@@ -7,18 +7,18 @@ function Work() {
     const workInfoData = [
         {
           image: PickMeals,
-          title: "Pick Meals",
-          text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et sagittis duis elementum interdum facilisi bibendum.",
+          title: "Quality Assurance",
+          text: "We uphold the highest standards of quality in every dish we serve, meticulously sourcing ingredients and maintaining strict hygiene protocols to guarantee a safe and enjoyable dining experience.",
         },
         {
           image: ChooseMeals,
-          title: "Choose How Often",
-          text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et ",
+          title: "Customizable Orders",
+          text: "Tailor your meal to your liking with our customizable options, allowing you to create a dining experience that suits your preferences perfectly.",
         },
         {
           image: DeliveryMeals,
-          title: "Fast Deliveries",
-          text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et lorem ipsum",
+          title: "Good Fast Deliveries",
+          text: "We prioritize speedy deliveries,From kitchen to your table in record time, our commitment to swift service means you'll never have to wait long for your delicious meal to arrive.",
         },
       ];
   return (
@@ -27,8 +27,7 @@ function Work() {
             <p className='primary-subheading'>Work</p>
             <h1 className='primary-heading'>How It Work</h1>
             <p className='primary-text'>
-            Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+            we understand the importance of good service. Our friendly staff is here to ensure you have a pleasant dining experience from start to finish.
             </p>
         </div>
         <div className='work-section-bottom'>

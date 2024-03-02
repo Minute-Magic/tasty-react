@@ -178,7 +178,7 @@ nav {
   margin: 6rem 0rem;
 }
 .contact-form-container {
-  background-color: white;
+  background-color: rgb(255, 255, 255);
   max-width: 700px;
   width: 100%;
   margin-top: 3rem;
@@ -279,7 +279,7 @@ nav {
 .work-section-info {
   width: 290px;
   min-height: 350px;
-  background-color: white;
+  background-color: #f8dbcb;
   padding: 1rem 2rem;
   display: flex;
   flex-direction: column;

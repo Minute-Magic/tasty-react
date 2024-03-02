@@ -9,8 +9,7 @@ function Testimonial() {
             <p className='primary-subheading'>Testimonial</p>
             <h1 className='primary-heading'>What They Are Saying</h1>
             <p className="primary-text">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+            Discover what our satisfied customers are saying about their dining experiences with us. From rave reviews to glowing testimonials, find out why they keep coming back for more.
         </p>
         </div>
         <div className='testimonial-section-bottom'>

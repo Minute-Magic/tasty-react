@@ -14,11 +14,10 @@ function Home() {
             </div>
             <div className='home-text-section'>
                 <h1 className='primary-heading'>
-                Your Favourite Food Delivered Hot & Fresh
+                Enjoy Tasty Meals, Straight to Your Plate, Always Fresh and Hot!
                 </h1>
                 <p className='primary-text'>
-                Healthy switcher chefs do all the prep work, like peeding, chopping
-            & marinating, so you can cook a fresh food.
+                Dive into our yummy meals, made just for you and brought to your door, so you can enjoy every bite without waiting!
                 </p>
                 <button className='secondary-button'>
                     Order Now <FiArrowRight/>{""}
