@@ -20,7 +20,7 @@ body {
 }
 
 body {
-  background-color: #f6f6f6;
+  background-color: #FEECE2;
 }
 
 nav {
@@ -85,19 +85,19 @@ nav {
 }
 .primary-heading {
   font-size: clamp(2rem, 5vw, 4rem);
-  color: #4c4c4c;
+  color: #361500;
   /* line-height: 5rem; */
   max-width: 600px;
 }
 .primary-text {
   font-size: clamp(1rem, 3vw, 1.5rem);
   max-width: 500px;
-  color: #6a6a6a;
+  color: #878787;
   margin: 1.5rem 0rem;
 }
 .secondary-button {
   padding: 1rem 2.5rem;
-  background-color: #fe9e0d;
+  background-color: #4e0317;
   outline: none;
   border: none;
   border-radius: 5rem;
@@ -115,7 +115,7 @@ nav {
   font-size: 1.5rem;
 }
 .secondary-button:hover {
-  background-color: #e48f0f;
+  background-color: #4e0317;
 }
 .about-section-container {
   margin-top: 20rem;
@@ -141,7 +141,7 @@ nav {
 }
 .primary-subheading {
   font-weight: 700;
-  color: #fe9e0d;
+  color: #4e0317;
   font-size: 1.15rem;
 }
 .about-buttons-container {
@@ -255,7 +255,7 @@ nav {
 .testimonials-stars-container svg {
   margin: 0rem 0.25rem;
   font-size: 1.5rem;
-  color: #fe9e0d;
+  color: #4e0317;
 }
 .testimonial-section-bottom h2 {
   margin-top: 1.5rem;
@@ -287,7 +287,7 @@ nav {
   align-items: center;
   text-align: center;
   border-radius: 1rem;
-  color: #505050;
+  color: #361500;
   margin: 1rem 2rem;
 }
 .work-section-info h2 {
